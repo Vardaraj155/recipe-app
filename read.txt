@@ -1,3 +1,0 @@
-"welcome to python django world"
-"here it goes with code changes"
-"changes done by whom need to be checked"
